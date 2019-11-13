@@ -1,0 +1,4 @@
+[submodule "agent-scala-scalatest"]
+	path = agent-scala-scalatest
+	url = https://github.com/reportportal/agent-scala-scalatest.git
+	branch = master
